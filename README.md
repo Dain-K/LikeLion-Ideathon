@@ -1,6 +1,6 @@
-# :lion: LikeLion 9기 IdeaTon
+# :lion: LikeLion 9기 Ideathon
 
-### 달밤의배달
+### 달밤의 배달
 `1인가구를 위한 배달 서비스`로, <br>함께 배달 받기 때문에 최소주문금액을 쉽게 채울 수 있기 때문에 배달비를 절약할 수 있는 서비스
 <br><br>
 ![mainpage](results/mainmenu.png) 
