@@ -22,7 +22,7 @@
 ## Demo 영상 
 :movie_camera: [youtube 이동](https://www.youtube.com/watch?app=desktop&v=lQnrwgoIDS0&feature=youtu.be)
 
-## results
+## Results
 ### ⬇ 로그인 페이지
 ![image](results/login.png)
 
